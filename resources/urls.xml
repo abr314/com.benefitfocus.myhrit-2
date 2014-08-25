@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="pod_service_url">pod.url</string>
+	<string name="pod_config_service_url">podconfig.url</string>
+	<string name="activation_url">member.activation.url</string>
+	<string name="env">environment</string>
+</resources>
